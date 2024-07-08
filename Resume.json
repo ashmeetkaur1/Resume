@@ -1,0 +1,82 @@
+{
+  "name": "Ashmeet Kaur",
+  "contact_information": {
+    "address": "B-647, Ansal Sushant City, Panipat, Haryana",
+    "linkedin": "https://www.linkedin.com/in/ashmeet-kaur-709870260/",
+    "email": "ashmeetkaur13@icloud.com",
+    "phone": "9817481443"
+  },
+  "summary": "I am a highly driven engineering student looking for the opportunity to use my knowledge and skillset.",
+  "education": [
+    {
+      "institution": "S.R.M Institute of Science and Technology, Kattankulathur, Chennai",
+      "degree": "B. Tech in Computer Science",
+      "dates": {
+        "start": "2021",
+        "end": "Present"
+      },
+      "gpa": "8.95"
+    },
+    {
+      "institution": "S.D. Vidya Mandir School, Panipat, Haryana",
+      "dates": {
+        "start": "2006",
+        "end": "2021"
+      },
+      "details": [
+        "Primary, Secondary [10th Percentage: 92.8%]",
+        "Higher Secondary education [12th Percentage: 91.2%] (C.B.S.E)"
+      ]
+    }
+  ],
+  "skills_and_interests": {
+    "computer_languages": ["C", "C++", "Python", "MySQL", "JavaScript", "HTML", "CSS", "PHP", "Node", "React.js"],
+    "skills": ["Full stack Web Development", "Software Development", "ServiceNow Certified System Administrator"],
+    "certifications": [
+      "ServiceNow Certified System Administrator",
+      "The Complete 2024 Web Development Bootcamp",
+      "NPTEL Data Science for Engineers",
+      "ServiceNow Application Development Fundamentals",
+      "GOOGLE-AIML Virtual Internship",
+      "AICTE Data Engineering Virtual Internship",
+      "AICTE AI-ML Virtual Internship, AWS Academy Cloud Foundations",
+      "AWS Academy Machine Learning Foundations",
+      "Cisco Networking Basics",
+      "GOOGLE-AIML Virtual Internship"
+    ],
+    "projects": [
+      "Helmet Detection using YOLO (ongoing)",
+      "Species Detection and identification using AI"
+    ],
+    "software": ["MATLAB", "AutoCAD", "Excel", "Cisco Packet Tracer"],
+    "languages": ["English", "Hindi", "Punjabi"],
+    "interests": ["Programming", "Reading", "Writing", "Photography"]
+  },
+  "leadership_and_activity": [
+    {
+      "organization": "Aaruush (National techno-management fest)",
+      "role": "Committee Head",
+      "dates": {
+        "start": "2023",
+        "end": "2024"
+      }
+    },
+    {
+      "organization": "Aaruush (National techno-management fest)",
+      "role": "Event Coordinator",
+      "dates": {
+        "start": "2022",
+        "end": "2023"
+      }
+    },
+    {
+      "organization": "Basics of Sikhi",
+      "role": "Event Coordinator, Volunteer",
+      "dates": {
+        "start": "2018",
+        "end": "Present"
+      },
+      "skills_learnt": ["Leadership qualities", "Problem solving", "Time management", "Organization"]
+    }
+  ]
+}
